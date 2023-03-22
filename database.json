@@ -1,0 +1,583 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Anna M",
+      "email": "anna@m.com",
+      "password": "anna"
+    },
+    {
+      "email": "sam@smith.com",
+      "password": "sam",
+      "name": "Samantha Smith ",
+      "id": 2
+    },
+    {
+      "email": "sally@summers.com",
+      "password": "sally",
+      "name": "Sally Summers",
+      "id": 3
+    }
+  ],
+  "levels": [
+    {
+      "id": 1,
+      "level": "Beginner"
+    },
+    {
+      "id": 2,
+      "level": "Intermediate"
+    },
+    {
+      "id": 3,
+      "level": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Tiramisu Baby Blanket",
+      "patternURL": "https://aliciapaulson.com/products/tiramisu-baby-blanket-crochet-pattern",
+      "levelId": 1,
+      "startDate": "2/27/2023",
+      "completeDate": null,
+      "userId": 1,
+      "photoURL": null
+    },
+    {
+      "id": 2,
+      "name": "Bunny",
+      "patternURL": "https://aliciapaulson.com/products/tiramisu-baby-blanket-crochet-pattern",
+      "levelId": 2,
+      "startDate": "02/27/2022",
+      "completeDate": "3/10/2023",
+      "userId": 1,
+      "photoURL": null
+    },
+    {
+      "name": "CROCHET FAN STITCH BABY BLANKET",
+      "patternURL": "https://adorecrea.com/crochet-fan-stitch-baby-blanket/",
+      "levelId": 1,
+      "startDate": "03/15/2023",
+      "completeDate": null,
+      "userId": 2,
+      "id": 4,
+      "photoURL": ""
+    },
+    {
+      "name": "Freddy The Fawn Baby Lovey",
+      "patternURL": "https://craftinghappiness.com/cuddly-freddy-the-fawn-deer-baby-lovey-crochet-pattern/",
+      "levelId": 2,
+      "startDate": "02/15/2023",
+      "completeDate": "03/16/2023",
+      "userId": 2,
+      "id": 5,
+      "photoURL": null
+    },
+    {
+      "name": "Baby Bear Cardigan",
+      "patternURL": "https://lovelifeyarn.com/baby-bear-cardigan-free-crochet-pattern/",
+      "levelId": 3,
+      "startDate": "3/15/2023",
+      "completeDate": null,
+      "userId": 2,
+      "id": 6,
+      "photoURL": "https://cdn.shortpixel.ai/spai/w_645+q_lossy+ret_img+to_webp/https://lovelifeyarn.com/wp-content/uploads/2018/01/Baby-Bear-Cardigan-Flat.jpg"
+    },
+    {
+      "name": "Sea Turtle Blanket",
+      "patternURL": "https://www.mjsoffthehookdesigns.com/hooded-sea-turtle-blanket/",
+      "photoURL": "https://www.mjsoffthehookdesigns.com/wp-content/uploads/2019/06/sea-turtle3.jpg",
+      "levelId": 2,
+      "startDate": "3/15/2023",
+      "completeDate": "3/20/2023",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "name": "Whale",
+      "patternURL": "",
+      "photoURL": "https://i.etsystatic.com/7402908/r/il/502641/796815948/il_794xN.796815948_2vfo.jpg",
+      "levelId": 3,
+      "startDate": "3/16/2023",
+      "completeDate": null,
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "name": "Barry the Otter",
+      "patternURL": "https://www.etsy.com/listing/825873637/crochet-pdf-pattern-otter-barry-stuffed?ref=yr_purchases",
+      "photoURL": "https://i.etsystatic.com/13271886/r/il/12cf07/2727210879/il_794xN.2727210879_m8rs.jpg",
+      "levelId": 2,
+      "startDate": "3/20/2023",
+      "completeDate": "3/20/2023",
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "name": "Barry the Otter",
+      "patternURL": "https://www.etsy.com/listing/825873637/crochet-pdf-pattern-otter-barry-stuffed?ref=yr_purchases",
+      "photoURL": "https://i.etsystatic.com/13271886/r/il/12cf07/2727210879/il_794xN.2727210879_m8rs.jpg",
+      "levelId": 2,
+      "startDate": "7/15/2022",
+      "completeDate": "8/10/2022",
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "name": "Hooded Sea Turtle Blanket",
+      "patternURL": "https://www.mjsoffthehookdesigns.com/hooded-sea-turtle-blanket/",
+      "photoURL": "https://www.mjsoffthehookdesigns.com/wp-content/uploads/2019/06/sea-turtle3-1024x781.jpg",
+      "levelId": 2,
+      "startDate": "3/20/2023",
+      "completeDate": "3/20/2023",
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "name": "Newborn Penguin Outfit",
+      "patternURL": "https://brianakdesigns.com/newborn-penguin-crochet-outfit/",
+      "photoURL": "https://brianakdesigns.com/wp-content/uploads/2019/11/2019-11-14_0021-1024x683.jpg",
+      "levelId": 2,
+      "startDate": "3/20/2023",
+      "completeDate": null,
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "name": "Winterland Crochet Snowflake",
+      "patternURL": "https://crochetpedia.com/crochet-snowflakes-mini-cal-part-5/",
+      "photoURL": "https://crochetpedia.com/wp-content/uploads/2020/10/crochet-snowflakes-mini-cal-part5-3-696x696.jpg",
+      "levelId": 1,
+      "startDate": "3/20/2023",
+      "completeDate": null,
+      "userId": 1,
+      "id": 17
+    },
+    {
+      "name": "Woodland Headbands",
+      "patternURL": "https://www.whistleandivy.com/crochet-animal-ears-headbands-free-crochet-pattern",
+      "photoURL": "https://www.whistleandivy.com/wp-content/uploads/2019/07/crochetfoxheadband-600x399.jpg",
+      "levelId": 1,
+      "startDate": "3/20/2023",
+      "completeDate": null,
+      "userId": 1,
+      "id": 18
+    },
+    {
+      "name": "Woodland Headbands",
+      "patternURL": "https://www.whistleandivy.com/crochet-animal-ears-headbands-free-crochet-pattern",
+      "photoURL": "https://www.whistleandivy.com/wp-content/uploads/2019/07/crochetfoxheadband-600x399.jpg",
+      "levelId": 1,
+      "startDate": "3/22/2023",
+      "completeDate": null,
+      "userId": 1,
+      "id": 19
+    },
+    {
+      "name": "Woodland Headbands",
+      "patternURL": "https://www.whistleandivy.com/crochet-animal-ears-headbands-free-crochet-pattern",
+      "photoURL": "https://www.whistleandivy.com/wp-content/uploads/2019/07/crochetfoxheadband-600x399.jpg",
+      "levelId": 1,
+      "startDate": "3/22/2023",
+      "completeDate": null,
+      "userId": 1,
+      "id": 20
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "note": "This is my favorite baby shower gift. It is also easy enough to make while watching TV.",
+      "projectId": 1,
+      "date": "2/27/2023"
+    },
+    {
+      "id": 2,
+      "note": "Remember to put the same number of stiches on both edges of the blanket. It needs to be an even number to get the ruffles",
+      "projectId": 1,
+      "date": "3/13/2023"
+    },
+    {
+      "note": "I made this as a gift for Rachel's daughter, Sophia. She really enjoyed it. Next time I will be more carefully about the nose. I feel like the color wasn't quite right. ",
+      "projectId": "2",
+      "date": "3/14/2023",
+      "id": 3
+    },
+    {
+      "note": "I love the idea of using hexagons to make this whale. I am going to try to recreate it without a pattern. ",
+      "projectId": "8",
+      "date": "3/16/2023",
+      "id": 5
+    },
+    {
+      "note": "Don't forget the change to lines 5 and 12",
+      "projectId": 6,
+      "date": "3/17/2023",
+      "id": 6
+    },
+    {
+      "note": "Made this for Corey. ",
+      "projectId": 11,
+      "date": "8/20/2022",
+      "id": 7
+    },
+    {
+      "note": "Be careful with changing colors on the face. The pattern says to work it in a spiral but that made it hard to keep the colors in the same place each time. If I make it again I will try to join the rows instead. ",
+      "projectId": 11,
+      "date": "3/20/2023",
+      "id": 8
+    },
+    {
+      "note": "so cute! I will make the fox first but then I may try the other options in this pattern ",
+      "projectId": 18,
+      "date": "3/21/2023",
+      "id": 9
+    },
+    {
+      "note": "Remember the change on line 3\n",
+      "projectId": 13,
+      "date": "3/21/2023",
+      "id": 10
+    },
+    {
+      "note": "new ",
+      "projectId": 11,
+      "date": "3/22/2023",
+      "id": 11
+    },
+    {
+      "note": "new",
+      "projectId": 12,
+      "date": "3/22/2023",
+      "id": 12
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "projectId": 1,
+      "count": 13,
+      "name": "main section"
+    },
+    {
+      "projectId": 2,
+      "count": 0,
+      "id": 2,
+      "name": "main section"
+    },
+    {
+      "projectId": 4,
+      "count": 5,
+      "id": 3,
+      "name": "main section"
+    },
+    {
+      "projectId": 5,
+      "count": 1,
+      "name": "main section",
+      "id": 4
+    },
+    {
+      "projectId": 6,
+      "count": 2,
+      "name": "main section",
+      "id": 5
+    },
+    {
+      "name": "new section",
+      "count": 0,
+      "projectId": 7,
+      "id": 6
+    },
+    {
+      "projectId": 8,
+      "count": 29,
+      "name": "main section",
+      "id": 7
+    },
+    {
+      "name": "second section",
+      "count": 18,
+      "projectId": 4,
+      "id": 8
+    },
+    {
+      "name": "edge",
+      "count": 15,
+      "projectId": 4,
+      "id": 9
+    },
+    {
+      "projectId": 10,
+      "count": 0,
+      "name": "main section",
+      "id": 11
+    },
+    {
+      "projectId": 11,
+      "count": 0,
+      "name": "main section",
+      "id": 12
+    },
+    {
+      "projectId": 12,
+      "count": 0,
+      "name": "main section",
+      "id": 13
+    },
+    {
+      "projectId": 13,
+      "count": 0,
+      "name": "Penguin Wrap Cedar",
+      "id": 19
+    },
+    {
+      "projectId": 13,
+      "count": 0,
+      "name": "Penguin Wrap Bonnet Ivory",
+      "id": 20
+    },
+    {
+      "projectId": 13,
+      "count": 0,
+      "name": "Penguin Bonnet Beak",
+      "id": 21
+    },
+    {
+      "projectId": 13,
+      "count": 0,
+      "name": "Penguin Wrap Bonnet Cedar",
+      "id": 22
+    },
+    {
+      "projectId": 13,
+      "count": 0,
+      "name": "Penguin Wrap Ivory",
+      "id": 23
+    },
+    {
+      "projectId": 17,
+      "count": 0,
+      "name": "Main Section",
+      "id": 24
+    },
+    {
+      "projectId": 18,
+      "count": 0,
+      "name": "Ear Front",
+      "id": 25
+    },
+    {
+      "projectId": 18,
+      "count": 0,
+      "name": "Headband",
+      "id": 26
+    },
+    {
+      "projectId": 18,
+      "count": 0,
+      "name": "Ear Back",
+      "id": 27
+    },
+    {
+      "projectId": 18,
+      "count": 0,
+      "name": "Ear Front",
+      "id": 28
+    },
+    {
+      "projectId": 18,
+      "count": 0,
+      "name": "Ear Back",
+      "id": 29
+    },
+    {
+      "projectId": 19,
+      "count": 1,
+      "name": "Headband",
+      "id": 30
+    },
+    {
+      "projectId": 19,
+      "count": 0,
+      "name": "Ear Back",
+      "id": 31
+    },
+    {
+      "projectId": 19,
+      "count": 0,
+      "name": "Ear Back",
+      "id": 32
+    },
+    {
+      "projectId": 19,
+      "count": 0,
+      "name": "Ear Front",
+      "id": 33
+    },
+    {
+      "projectId": 19,
+      "count": 0,
+      "name": "Ear Front",
+      "id": 34
+    },
+    {
+      "projectId": 20,
+      "count": 0,
+      "name": "Headband",
+      "id": 35
+    },
+    {
+      "projectId": 20,
+      "count": 0,
+      "name": "Ear Back",
+      "id": 36
+    },
+    {
+      "projectId": 20,
+      "count": 0,
+      "name": "Ear Front",
+      "id": 37
+    },
+    {
+      "projectId": 20,
+      "count": 0,
+      "name": "Ear Front",
+      "id": 38
+    },
+    {
+      "projectId": 20,
+      "count": 0,
+      "name": "Ear Back",
+      "id": 39
+    }
+  ],
+  "productPhotos": [
+    {
+      "publicRef": "oyxmpfdicgiivmmy3id4",
+      "photoURL": "https://res.cloudinary.com/duy4yg4hz/image/upload/v1679324095/oyxmpfdicgiivmmy3id4.jpg",
+      "projectId": 7,
+      "id": 1
+    },
+    {
+      "publicRef": "hcydamafilfwpilif8ij",
+      "photoURL": "https://res.cloudinary.com/duy4yg4hz/image/upload/v1679324458/hcydamafilfwpilif8ij.jpg",
+      "projectId": 7,
+      "id": 2
+    },
+    {
+      "publicRef": "xhjjv7ea1ninzizd8xp2",
+      "photoURL": "https://res.cloudinary.com/duy4yg4hz/image/upload/v1679324995/xhjjv7ea1ninzizd8xp2.jpg",
+      "projectId": 10,
+      "id": 3
+    },
+    {
+      "publicRef": "opzydux77rjjyr6n3bqp",
+      "photoURL": "https://res.cloudinary.com/duy4yg4hz/image/upload/v1679325513/opzydux77rjjyr6n3bqp.jpg",
+      "projectId": 11,
+      "id": 4
+    },
+    {
+      "publicRef": "m84xwzbyrglym3wtuptl",
+      "photoURL": "https://res.cloudinary.com/duy4yg4hz/image/upload/v1679325624/m84xwzbyrglym3wtuptl.jpg",
+      "projectId": 12,
+      "id": 5
+    },
+    {
+      "publicRef": "yecwguw3x7ncv7osp2xb",
+      "photoURL": "https://res.cloudinary.com/duy4yg4hz/image/upload/v1679325629/yecwguw3x7ncv7osp2xb.jpg",
+      "projectId": 12,
+      "id": 6
+    }
+  ],
+  "examples": [
+    {
+      "name": "Newborn Penguin Outfit",
+      "patternURL": "https://brianakdesigns.com/newborn-penguin-crochet-outfit/",
+      "photoURL": "https://brianakdesigns.com/wp-content/uploads/2019/11/2019-11-14_0021-1024x683.jpg",
+      "author": "Briana Kepner from Briana K Designs Blog",
+      "levelId": 2,
+      "description": "This newborn outfit is way too cute! You can also find a pattern for a matching stuffed penguin on this blog",
+      "id": 2,
+      "exampleSections": [
+        "Penguin Wrap Cedar",
+        "Penguin Wrap Ivory",
+        "Penguin Wrap Bonnet Ivory",
+        "Penguin Wrap Bonnet Cedar",
+        "Penguin Bonnet Beak"
+      ]
+    },
+    {
+      "name": "Winterland Crochet Snowflake",
+      "patternURL": "https://crochetpedia.com/crochet-snowflakes-mini-cal-part-5/",
+      "photoURL": "https://crochetpedia.com/wp-content/uploads/2020/10/crochet-snowflakes-mini-cal-part5-3-696x696.jpg",
+      "author": "Kate from Crochetpedia Blog",
+      "levelId": 1,
+      "description": "This snowflake ornament is complete in only three rounds",
+      "id": 3,
+      "exampleSections": [
+        "Main Section"
+      ]
+    },
+    {
+      "name": "Woodland Headbands",
+      "patternURL": "https://www.whistleandivy.com/crochet-animal-ears-headbands-free-crochet-pattern",
+      "photoURL": "https://www.whistleandivy.com/wp-content/uploads/2019/07/crochetfoxheadband-600x399.jpg",
+      "author": "Beth from Whistle and Ivy Blog",
+      "levelId": 1,
+      "description": "These headbands are perfect for dressup and play time!",
+      "id": 4,
+      "exampleSections": [
+        "Headband",
+        "Ear Back",
+        "Ear Back",
+        "Ear Front",
+        "Ear Front"
+      ]
+    },
+    {
+      "name": "Snowman Towel",
+      "patternURL": "https://www.acrochetedsimplicity.com/snowman-kitchen-towel-free-crochet-towel-pattern/",
+      "photoURL": "https://www.acrochetedsimplicity.com/wp-content/uploads/2019/11/Snowman-Towel-2-blog.jpg",
+      "author": "Jennifer from a Crocheted Simplicity Blog",
+      "levelId": 1,
+      "description": "This snowman is the perfect seasonal gift",
+      "id": 1,
+      "exampleSections": [
+        "Head",
+        "Body of Towel",
+        "Head Edging",
+        "Coal Button",
+        "Coal Button",
+        "Coal Button",
+        "Eye",
+        "Eye",
+        "Nose",
+        "Scarf",
+        "Hat",
+        "Holly Leaf",
+        "Holly Leaf",
+        "Holly Berry",
+        "Holly Berry",
+        "Holly Berry"
+      ]
+    },
+    {
+      "name": "Hooded Panda Cowl",
+      "patternURL": "https://apurposeandastitch.com/hooded-panda-cowl-free-pattern-in-3-sizes/",
+      "photoURL": "https://apurposeandastitch.com/wp-content/uploads/2018/03/fullsizeoutput_e83.jpeg",
+      "author": "Bernadette from A Purpose and A Stitch Blog",
+      "levelId": 1,
+      "description": "What could be better than a cozy cowl?",
+      "id": 5,
+      "exampleSections": [
+        "Body",
+        "Cowl",
+        "Finishing Touches to the Hood",
+        "Ear",
+        "Ear"
+      ]
+    }
+  ]
+}
