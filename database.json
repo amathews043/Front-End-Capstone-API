@@ -47,7 +47,7 @@
     {
       "id": 2,
       "name": "Bunny",
-      "patternURL": "https://aliciapaulson.com/products/tiramisu-baby-blanket-crochet-pattern",
+      "patternURL": "",
       "levelId": 2,
       "startDate": "02/27/2022",
       "completeDate": "3/10/2023",
@@ -163,6 +163,16 @@
       "completeDate": null,
       "userId": 1,
       "id": 18
+    },
+    {
+      "name": "Ocean blanket",
+      "patternURL": "",
+      "photoURL": "",
+      "levelId": 1,
+      "startDate": "3/24/2023",
+      "completeDate": "3/24/2023",
+      "userId": 1,
+      "id": 19
     }
   ],
   "notes": [
@@ -509,6 +519,12 @@
       "count": 6,
       "name": "Tail",
       "id": 51
+    },
+    {
+      "projectId": 19,
+      "count": 500,
+      "name": "main section",
+      "id": 52
     }
   ],
   "productPhotos": [
