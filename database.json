@@ -163,26 +163,6 @@
       "completeDate": null,
       "userId": 1,
       "id": 18
-    },
-    {
-      "name": "Woodland Headbands",
-      "patternURL": "https://www.whistleandivy.com/crochet-animal-ears-headbands-free-crochet-pattern",
-      "photoURL": "https://www.whistleandivy.com/wp-content/uploads/2019/07/crochetfoxheadband-600x399.jpg",
-      "levelId": 1,
-      "startDate": "3/22/2023",
-      "completeDate": null,
-      "userId": 1,
-      "id": 19
-    },
-    {
-      "name": "Woodland Headbands",
-      "patternURL": "https://www.whistleandivy.com/crochet-animal-ears-headbands-free-crochet-pattern",
-      "photoURL": "https://www.whistleandivy.com/wp-content/uploads/2019/07/crochetfoxheadband-600x399.jpg",
-      "levelId": 1,
-      "startDate": "3/22/2023",
-      "completeDate": null,
-      "userId": 1,
-      "id": 20
     }
   ],
   "notes": [
@@ -239,12 +219,6 @@
       "projectId": 13,
       "date": "3/21/2023",
       "id": 10
-    },
-    {
-      "note": "new ",
-      "projectId": 11,
-      "date": "3/22/2023",
-      "id": 11
     },
     {
       "note": "new",
@@ -310,25 +284,25 @@
     },
     {
       "projectId": 10,
-      "count": 0,
+      "count": 10,
       "name": "main section",
       "id": 11
     },
     {
       "projectId": 11,
-      "count": 0,
-      "name": "main section",
+      "count": 61,
+      "name": "Head and Body",
       "id": 12
     },
     {
       "projectId": 12,
-      "count": 0,
-      "name": "main section",
+      "count": 5,
+      "name": "motif 1",
       "id": 13
     },
     {
       "projectId": 13,
-      "count": 0,
+      "count": 10,
       "name": "Penguin Wrap Cedar",
       "id": 19
     },
@@ -340,7 +314,7 @@
     },
     {
       "projectId": 13,
-      "count": 0,
+      "count": 2,
       "name": "Penguin Bonnet Beak",
       "id": 21
     },
@@ -352,7 +326,7 @@
     },
     {
       "projectId": 13,
-      "count": 0,
+      "count": 3,
       "name": "Penguin Wrap Ivory",
       "id": 23
     },
@@ -376,7 +350,7 @@
     },
     {
       "projectId": 18,
-      "count": 0,
+      "count": 1,
       "name": "Ear Back",
       "id": 27
     },
@@ -393,64 +367,148 @@
       "id": 29
     },
     {
-      "projectId": 19,
-      "count": 1,
-      "name": "Headband",
+      "projectId": 11,
+      "count": 2,
+      "name": "Ears",
       "id": 30
     },
     {
-      "projectId": 19,
-      "count": 0,
-      "name": "Ear Back",
+      "projectId": 11,
+      "count": 2,
+      "name": "Muzzle",
       "id": 31
     },
     {
-      "projectId": 19,
-      "count": 0,
-      "name": "Ear Back",
+      "projectId": 11,
+      "count": 15,
+      "name": "Arm 1",
       "id": 32
     },
     {
-      "projectId": 19,
-      "count": 0,
-      "name": "Ear Front",
+      "projectId": 11,
+      "count": 15,
+      "name": "Arm 2",
       "id": 33
     },
     {
-      "projectId": 19,
-      "count": 0,
-      "name": "Ear Front",
+      "projectId": 11,
+      "count": 10,
+      "name": "Foot 1",
       "id": 34
     },
     {
-      "projectId": 20,
-      "count": 0,
-      "name": "Headband",
+      "projectId": 11,
+      "count": 10,
+      "name": "Foot 2",
       "id": 35
     },
     {
-      "projectId": 20,
-      "count": 0,
-      "name": "Ear Back",
+      "projectId": 11,
+      "count": 15,
+      "name": "Hip 1",
       "id": 36
     },
     {
-      "projectId": 20,
-      "count": 0,
-      "name": "Ear Front",
+      "projectId": 11,
+      "count": 15,
+      "name": "Hip 2",
       "id": 37
     },
     {
-      "projectId": 20,
-      "count": 0,
-      "name": "Ear Front",
+      "projectId": 11,
+      "count": 28,
+      "name": "Tail",
+      "id": 36
+    },
+    {
+      "projectId": 12,
+      "count": 5,
+      "name": "motif 2",
+      "id": 37
+    },
+    {
+      "projectId": 12,
+      "count": 5,
+      "name": "motif 3",
       "id": 38
     },
     {
-      "projectId": 20,
-      "count": 0,
-      "name": "Ear Back",
+      "projectId": 12,
+      "count": 5,
+      "name": "motif 4",
       "id": 39
+    },
+    {
+      "projectId": 12,
+      "count": 5,
+      "name": "motif 5",
+      "id": 40
+    },
+    {
+      "projectId": 12,
+      "count": 5,
+      "name": "motif 6",
+      "id": 41
+    },
+    {
+      "projectId": 12,
+      "count": 5,
+      "name": "motif 7",
+      "id": 42
+    },
+    {
+      "projectId": 12,
+      "count": 16,
+      "name": "Hood",
+      "id": 43
+    },
+    {
+      "projectId": 12,
+      "count": 16,
+      "name": "Face Piece",
+      "id": 44
+    },
+    {
+      "projectId": 12,
+      "count": 2,
+      "name": "Pupil and Iris 1",
+      "id": 45
+    },
+    {
+      "projectId": 12,
+      "count": 2,
+      "name": "Pupil and Iris 2",
+      "id": 46
+    },
+    {
+      "projectId": 12,
+      "count": 6,
+      "name": "Eye 1",
+      "id": 47
+    },
+    {
+      "projectId": 12,
+      "count": 6,
+      "name": "Eye 2",
+      "id": 48
+    },
+    {
+      "projectId": 12,
+      "count": 28,
+      "name": "Flipper 1",
+      "id": 49
+    },
+    {
+      "projectId": 12,
+      "count": 28,
+      "name": "Flipper 2",
+      "id": 50
+    },
+    {
+      "projectId": 12,
+      "count": 6,
+      "name": "Tail",
+      "id": 51
     }
   ],
   "productPhotos": [
